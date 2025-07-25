@@ -76,6 +76,6 @@ Combino mi pasión por el desarrollo con el compromiso social, colaborando activ
 ## Cómo colaborar o contactarme
 
 📬 **Email:** ciarrocaemiliano@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/emilianociarroca](https://linkedin.com/in/emiiarroca)  
+💼 **LinkedIn:** [linkedin.com/in/emilianociarroca](https://linkedin.com/in/emiciarroca)  
 
 ---
