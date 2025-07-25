@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador con sólida formación en frontend y backend, con foco en React, Node.js y MongoDB. Además, tengo experiencia en diseño gráfico y UX/UI, lo que me permite abordar proyectos de forma integral: desde la experiencia de usuario hasta la lógica del servidor.
+Soy un desarrollador con formación en frontend y backend, con foco en React, Node.js y MongoDB. Además, tengo experiencia en diseño gráfico y UX/UI, lo que me permite abordar proyectos de forma integral: desde la experiencia de usuario hasta la lógica del servidor.
 
 También tengo **amplia experiencia como diseñador gráfico**, utilizando herramientas del paquete Adobe (Photoshop, Illustrator, InDesign, After Effects) para proyectos editoriales, branding, redes sociales, animación y diseño digital. Esto me permite unir código y estética en soluciones funcionales y visualmente atractivas.
 
